@@ -37,32 +37,30 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 # Backlog do produto
 
 ## Sprint 1
-- [x] Como cliente: Quero visualizar as principais cargas movimentadas (2013-2023), para entender o fluxo nacional e regional.;
+- [x] Disponibilizar os dados do IBAMA referentes ao período de 2013 a 2023, garantindo acesso às informações sobre cargas perigosas;
+- [ ] Desenvolver e apresentar um protótipo inicial do dashboard final, permitindo a avaliação de sua estrutura e funcionalidades;
+- [ ] Organizar e disponibilizar os dados do IBAMA sobre cargas químicas e perigosas em um dataframe para consulta estruturada;
+- [ ] Consolidar os dados de 2013 a 2023 referentes a cargas químicas e perigosas em um único dataframe, assegurando integração e padronização das informações;
 
 ## Sprint 2
-- [ ] Impacto de políticas econômicas;
-- [ ] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
-- [ ] Diversificação de produtos;
-- [ ] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
+- [ ] Mapear as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais críticas;
+- [ ] Identificar as principais empresas responsáveis pela movimentação de cargas perigosas, evidenciando os maiores agentes do setor;
+- [ ] Analisar os modais de transporte mais utilizados nas movimentações de cargas especiais, avaliando os meios predominantes;
+- [ ] Elaborar a matriz origem–destino das cargas perigosas, permitindo a compreensão dos fluxos nacionais;
+- [ ] Monitorar a evolução da movimentação de cargas perigosas ao longo dos anos, identificando tendências de crescimento ou redução;
+- [ ] Disponibilizar a visualização da distribuição geográfica das movimentações de cargas por estado e região, destacando as áreas de maior concentração;
       
 ## Sprint 3
-- [x] Estudo de sazonalidade;
-- [x] Desenvolver análises temporais para identificar padrões sazonais em exportações;
-- [x] Avaliação de competitividade;
-- [x] Criar comparativos de preços e qualidade dos produtos exportados em relação ao mercado internacional;
-      
-## Sprint 4
-- [x] Mapeamento de cadeias produtivas;
-- [x] Identificar fornecedores e clientes internacionais e visualizar suas conexões econômicas;
-- [x] Análise de risco;
-- [x] Implementar alertas sobre dependência excessiva de poucos mercados ou parceiros comerciais;
+- [ ] Identificar as localidades com maior incidência de acidentes viários envolvendo veículos pesados, possibilitando o mapeamento de áreas de risco;
+- [ ] Avaliar a proximidade entre os locais de acidentes e os pontos de parada de descanso, contribuindo para o desenvolvimento de políticas de segurança e prevenção;
+- [ ] Desenvolver um dashboard em Power BI intuitivo, responsivo e de fácil navegação, garantindo acesso rápido às informações e geração de insights;
+- [ ] Produzir e entregar um relatório final com as principais descobertas e recomendações, fornecendo base para decisões estratégicas e formulação de políticas públicas;
 
 # Registro das Sprints
 
 Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 |01 | 02/10/2025 | Concluído | [MVP](https://docs.google.com/document/d/1KaDDcDLEqFQL5GvDBwGN0I9EU1RgUWj5MFP4rCalA3k/edit?usp=drive_link) | 
-|02|  30/04/2025| Concluído | [MVP](https://docs.google.com/document/d/1YZ_WxDUyqR9lWcMrkUm3Bpk7j7EA1rpr69jecNP_Mr8/edit?usp=drive_link) | 
-|03| 04/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
-|04| 17/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
-|Feira de Soluções|17/06/2025 |a fazer | [MVP](https://drive.google.com/drive/folders/1NYsjuWK12ZH6zu7WAvxcN0UXGRX4Vf6F?usp=sharing) | 
+|02|  23/10/2025| Em andamento | [MVP]() | 
+|03| 13/11/2025 | A fazer | [MVP]() | 
+|Feira de Soluções|04/12/2025 | A fazer | [MVP]() | 
