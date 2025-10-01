@@ -40,10 +40,10 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 - [x] Como cliente: Quero visualizar as principais cargas movimentadas (2013-2023), para entender o fluxo nacional e regional.;
 
 ## Sprint 2
-- [] Impacto de políticas econômicas;
-- [] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
-- [] Diversificação de produtos;
-- [] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
+- [ ] Impacto de políticas econômicas;
+- [ ] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
+- [ ] Diversificação de produtos;
+- [ ] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
       
 ## Sprint 3
 - [x] Estudo de sazonalidade;
