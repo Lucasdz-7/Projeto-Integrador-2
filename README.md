@@ -38,9 +38,9 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 
 ## Sprint 1
 - [x] Disponibilizar os dados do IBAMA referentes ao período de 2013 a 2023, garantindo acesso às informações sobre cargas perigosas;
-- [ ] Desenvolver e apresentar um protótipo inicial do dashboard final, permitindo a avaliação de sua estrutura e funcionalidades;
-- [ ] Organizar e disponibilizar os dados do IBAMA sobre cargas químicas e perigosas em um dataframe para consulta estruturada;
-- [ ] Consolidar os dados de 2013 a 2023 referentes a cargas químicas e perigosas em um único dataframe, assegurando integração e padronização das informações;
+- [x] Desenvolver e apresentar um protótipo inicial do dashboard final, permitindo a avaliação de sua estrutura e funcionalidades;
+- [x] Organizar e disponibilizar os dados do IBAMA sobre cargas químicas e perigosas em um dataframe para consulta estruturada;
+- [x] Consolidar os dados de 2013 a 2023 referentes a cargas químicas e perigosas em um único dataframe, assegurando integração e padronização das informações;
 
 ## Sprint 2
 - [ ] Mapear as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais críticas;
