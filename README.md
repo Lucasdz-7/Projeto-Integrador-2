@@ -37,16 +37,13 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 # Backlog do produto
 
 ## Sprint 1
-- [x] Análise Comparativa Regional;
-- [x] Criar métricas e gráficos no Power BI para comparar desempenho entre municípios vizinhos e de porte semelhante;
-- [x] Identificação de Mercados Emergentes;
-- [x] Processar dados sobre exportações por país e implementar filtros interativos no dashboard;
+- [x] Como cliente: Quero visualizar as principais cargas movimentadas (2013-2023), para entender o fluxo nacional e regional.;
 
 ## Sprint 2
-- [x] Impacto de políticas econômicas;
-- [x] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
-- [x] Diversificação de produtos;
-- [x] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
+- [] Impacto de políticas econômicas;
+- [] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
+- [] Diversificação de produtos;
+- [] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
       
 ## Sprint 3
 - [x] Estudo de sazonalidade;
@@ -64,7 +61,7 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 
 Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-|01 | 09/04/2025 | Concluído | [MVP](https://docs.google.com/document/d/1KaDDcDLEqFQL5GvDBwGN0I9EU1RgUWj5MFP4rCalA3k/edit?usp=drive_link) | 
+|01 | 02/10/2025 | Concluído | [MVP](https://docs.google.com/document/d/1KaDDcDLEqFQL5GvDBwGN0I9EU1RgUWj5MFP4rCalA3k/edit?usp=drive_link) | 
 |02|  30/04/2025| Concluído | [MVP](https://docs.google.com/document/d/1YZ_WxDUyqR9lWcMrkUm3Bpk7j7EA1rpr69jecNP_Mr8/edit?usp=drive_link) | 
 |03| 04/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
 |04| 17/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
