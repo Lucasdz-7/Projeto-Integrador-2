@@ -42,18 +42,20 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 - [x] Consolidar os dados de 2013 a 2023 referentes a cargas químicas e perigosas em um único dataframe, assegurando integração e padronização das informações;
 
 ## Sprint 2
-- [ ] Mapear as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais críticas;
+- [ ] Tratar e organizar os dados do IBAMA em Python, garantindo uma visualização limpa, estruturada e com informações precisas;
+- [ ] Tratar e organizar os dados da Polícia Federal, assegurando consistência e integridade das informações;
+- [ ] Desenvolver visualizações gráficas que apresentem as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais relevantes;
 - [ ] Identificar as principais empresas responsáveis pela movimentação de cargas perigosas, evidenciando os maiores agentes do setor;
-- [ ] Analisar os modais de transporte mais utilizados nas movimentações de cargas especiais, avaliando os meios predominantes;
-- [ ] Elaborar a matriz origem–destino das cargas perigosas, permitindo a compreensão dos fluxos nacionais;
-- [ ] Monitorar a evolução da movimentação de cargas perigosas ao longo dos anos, identificando tendências de crescimento ou redução;
-- [ ] Disponibilizar a visualização da distribuição geográfica das movimentações de cargas por estado e região, destacando as áreas de maior concentração;
+- [ ] Elaborar a matriz origem–destino das cargas perigosas, permitindo a compreensão dos fluxos de transporte em todo o país;
+- [ ] Monitorar a evolução da movimentação de cargas perigosas ao longo dos anos, possibilitando a identificação de tendências de crescimento ou redução;
       
 ## Sprint 3
-- [ ] Identificar as localidades com maior incidência de acidentes viários envolvendo veículos pesados, possibilitando o mapeamento de áreas de risco;
-- [ ] Avaliar a proximidade entre os locais de acidentes e os pontos de parada de descanso, contribuindo para o desenvolvimento de políticas de segurança e prevenção;
-- [ ] Desenvolver um dashboard em Power BI intuitivo, responsivo e de fácil navegação, garantindo acesso rápido às informações e geração de insights;
-- [ ] Produzir e entregar um relatório final com as principais descobertas e recomendações, fornecendo base para decisões estratégicas e formulação de políticas públicas;
+- [ ] Disponibilizar a visualização da distribuição geográfica das movimentações de cargas por estado e região, destacando as áreas com maior volume de atividade;
+- [ ] Identificar o número total de acidentes envolvendo caminhões no estado de São Paulo, fornecendo uma visão consolidada do cenário rodoviário;
+- [ ] Levantar e analisar as principais causas de acidentes, contribuindo para estratégias de mitigação e prevenção;
+- [ ] Mapear as rodovias federais (BRs) com maior número de acidentes envolvendo caminhões, permitindo a priorização de ações de segurança;
+- [ ] Desenvolver um dashboard em Power BI totalmente finalizado, com design intuitivo, responsivo e de fácil navegação, garantindo uma experiência completa de análise de dados;
+- [ ] Entregar um relatório final com as principais descobertas e recomendações, oferecendo suporte à tomada de decisão e à formulação de políticas públicas;
 
 # Registro das Sprints
 
