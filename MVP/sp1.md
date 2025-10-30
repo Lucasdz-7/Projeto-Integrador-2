@@ -34,9 +34,7 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **IPEM:** Instituto de Pesos e Medidas  breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **IPEM:** o Instituto de Pesos e Medidas possui a necessidade de verificar a incidência de sinistros relacionados ao transporte de cargas perigosas. 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
@@ -79,7 +77,6 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ## 📂 Anexos / Evidências
 - Protótipo inicial do dashboard
 ![Protótipo Inicial](sprint01.png)
-- Vídeo (MVP)
-[![Assista ao vídeo da demonstração de código no YouTube](https://img.youtube.com/vi/lXKVnO3EobU/0.jpg)](https://www.youtube.com/watch?v=lXKVnO3EobU)
+- Vídeo (MVP): [Clique aqui para assistir](https://www.youtube.com/watch?v=lXKVnO3EobU)
 
  
