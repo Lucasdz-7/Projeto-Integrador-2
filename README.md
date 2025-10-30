@@ -62,6 +62,6 @@ O objetivo deste projeto é criar um dashboard interativo em Power BI que analis
 Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 |01 | 02/10/2025 | Concluído | [MVP](MVP/sp1.md) | 
-|02|  23/10/2025| Em andamento | [MVP]() | 
+|02|  23/10/2025| Concluído | [MVP](MVP/sp2.md) | 
 |03| 13/11/2025 | A fazer | [MVP]() | 
 |Feira de Soluções|04/12/2025 | A fazer | [MVP]() | 
