@@ -80,5 +80,6 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 - Protótipo inicial do dashboard
 ![Protótipo Inicial](sprint01.png)
 - Vídeo (MVP)
-![Assista ao vídeo da demonstração de código no youtube] (https://www.youtube.com/watch?v=lXKVnO3EobU)
+[![Assista ao vídeo da demonstração de código no YouTube](https://img.youtube.com/vi/lXKVnO3EobU/0.jpg)](https://www.youtube.com/watch?v=lXKVnO3EobU)
+
  
