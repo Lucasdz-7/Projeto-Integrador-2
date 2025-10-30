@@ -80,5 +80,5 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 
 ## 📂 Anexos / Evidências
 - Protótipo inicial do dashboard
-- Vídeo (MVP): [Clique aqui para assistir](https://www.youtube.com/watch?v=lXKVnO3EobU)
+- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/_r4lNfdVtYc)
 
