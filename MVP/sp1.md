@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - SprintCoders
 
 ## 🎯 Objetivo do MVP
 
@@ -31,11 +31,10 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ### 🎯 Escopo reduzido
 - O foco é validar a integração e a visualização dos dados em um único ambiente, priorizando clareza, funcionalidade básica e viabilidade técnica.
 
-
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
+- **IPEM:** Instituto de Pesos e Medidas  breve descrição, necessidades e dores atendidas  
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
 ---
@@ -55,35 +54,31 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Coleta e Estruturação de Dados IBAMA         | Concluído|
+| 02     | Protótipo do Dashboard Power BI              | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize a estrutura do database que será utilizado no projeto, além de um protótipo do dashboard.
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O sistema deve registrar as informações de cargas perigosas e sinistros de trânsito.
+- Métricas coletadas: Quantidade de Cargas, Peso, Número de Empresas, Matriz OD, Quantidade de Sinistros, Localidade dos Sinistros e Localidade dos PPD's. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Feedback qualitativo: foi positivo, indicando o que foi desenvolvido e orientando nos pontos a melhorar.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Prosseguir com o desenvolvimento do projeto incrementando todo o conteúdo realizado
+  
 ---
 
 ## 📂 Anexos / Evidências
 - Protótipo inicial do dashboard
 ![Protótipo Inicial](sprint01.png)
 - Vídeo (MVP)
-![Assista ao vídeo da demonstração de código no youtube](https://www.youtube.com/watch?v=lXKVnO3EobU)
+![Assista ao vídeo da demonstração de código no youtube] (https://www.youtube.com/watch?v=lXKVnO3EobU)
  
