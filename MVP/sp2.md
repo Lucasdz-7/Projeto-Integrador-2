@@ -46,7 +46,7 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 | US3 | Como Cliente: Quero visualizar um gráfico com quais são as principais cargas perigosas movimentadas no Brasil.                          | Alta       | 5 pontos    |
 | US4 | Como Cliente: Quero identificar as principais empresas que movimentam cargas perigosas para saber quem são os maiores agentes do setor.    | Média      | 3 pontos    |
 | US5 | Como Cliente: Quero conhecer as principais origens e destinos (matriz origem–destino) das cargas perigosas para compreender os fluxos pelo país.   | Média      | 3 pontos    |
-| US4 | Como Cliente: Quero acompanhar a evolução da movimentação dessas cargas ao longo dos anos para identificar tendências de crescimento ou redução.  | Média      | 3 pontos    |
+| US6 | Como Cliente: Quero acompanhar a evolução da movimentação dessas cargas ao longo dos anos para identificar tendências de crescimento ou redução.  | Média      | 3 pontos    |
 
 
 ---
