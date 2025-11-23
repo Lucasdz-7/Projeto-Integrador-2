@@ -1,6 +1,6 @@
 
 # Projeto (API) 
-O objetivo deste projeto é criar um dashboard interativo em Power BI que analise dados do IBAMA sobre o transporte de cargas especiais e perigosas no Brasil. A ferramenta mostrará as principais cargas, modais, origens, destinos e a evolução dessas movimentações de 2013 a 2023, além de mapear acidentes com veículos pesados e sua proximidade de pontos de descanso, apoiando políticas públicas e decisões logísticas.
+O objetivo deste projeto é desenvolver um dashboard interativo no Power BI para analisar os dados do IBAMA referentes ao transporte de cargas especiais e perigosas no Brasil através do modal rodoviário. A solução apresentará as principais cargas movimentadas, empresas envolvidas, situações cadastrais e a matriz Origem–Destino (OD), contemplando a evolução dessas operações no período de 2013 a 2023. Além disso, o dashboard integrará dados da Polícia Rodoviária Federal (PRF), permitindo visualizar ocorrências e acidentes envolvendo veículos pesados.
 
 # Índice
 * [Projeto](#projeto-template)
