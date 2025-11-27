@@ -53,7 +53,7 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Coleta e Estruturação de Dados IBAMA         | Concluído|
-| 02     | Protótipo do Dashboard Power BI              | Concluído |
+| 01     | Protótipo do Dashboard Power BI              | Concluído |
 
 ---
 
