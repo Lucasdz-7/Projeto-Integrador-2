@@ -54,9 +54,9 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Tratamento de dados do IBAMA | Concluído|
+| 02     | Tratamento de dados do IBAMA | Concluído|
 | 02     | Tratamento dos dados da PRF sobre acidentes | Concluído |
-| 03     | Construção do Dashboard funcional       | Concluído |
+| 02     | Construção do Dashboard funcional       | Concluído |
       
 
 ---
