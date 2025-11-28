@@ -78,6 +78,6 @@ Visualização clara e dinâmica de métricas como principais cargas, modais, or
 ---
 
 ## 📂 Anexos / Evidências
-- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/_r4lNfdVtYc)
+- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/PAUcp9KuWoc)
 
  
