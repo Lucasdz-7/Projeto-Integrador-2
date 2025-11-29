@@ -42,20 +42,20 @@ O objetivo deste projeto é desenvolver um dashboard interativo no Power BI para
 - [x] Consolidar os dados de 2013 a 2023 referentes a cargas químicas e perigosas em um único dataframe, assegurando integração e padronização das informações;
 
 ## Sprint 2
-- [ ] Tratar e organizar os dados do IBAMA em Python, garantindo uma visualização limpa, estruturada e com informações precisas;
-- [ ] Tratar e organizar os dados da Polícia Federal, assegurando consistência e integridade das informações;
-- [ ] Desenvolver visualizações gráficas que apresentem as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais relevantes;
-- [ ] Identificar as principais empresas responsáveis pela movimentação de cargas perigosas, evidenciando os maiores agentes do setor;
-- [ ] Elaborar a matriz origem–destino das cargas perigosas, permitindo a compreensão dos fluxos de transporte em todo o país;
-- [ ] Monitorar a evolução da movimentação de cargas perigosas ao longo dos anos, possibilitando a identificação de tendências de crescimento ou redução;
+- [x] Tratar e organizar os dados do IBAMA em Python, garantindo uma visualização limpa, estruturada e com informações precisas;
+- [x] Tratar e organizar os dados da Polícia Federal, assegurando consistência e integridade das informações;
+- [x] Desenvolver visualizações gráficas que apresentem as principais cargas perigosas movimentadas no Brasil, destacando as mercadorias mais relevantes;
+- [x] Identificar as principais empresas responsáveis pela movimentação de cargas perigosas, evidenciando os maiores agentes do setor;
+- [x] Elaborar a matriz origem–destino das cargas perigosas, permitindo a compreensão dos fluxos de transporte em todo o país;
+- [x] Monitorar a evolução da movimentação de cargas perigosas ao longo dos anos, possibilitando a identificação de tendências de crescimento ou redução;
       
 ## Sprint 3
-- [ ] Disponibilizar a visualização da distribuição geográfica das movimentações de cargas por estado e região, destacando as áreas com maior volume de atividade;
-- [ ] Identificar o número total de acidentes envolvendo caminhões no estado de São Paulo, fornecendo uma visão consolidada do cenário rodoviário;
-- [ ] Levantar e analisar as principais causas de acidentes, contribuindo para estratégias de mitigação e prevenção;
-- [ ] Mapear as rodovias federais (BRs) com maior número de acidentes envolvendo caminhões, permitindo a priorização de ações de segurança;
-- [ ] Desenvolver um dashboard em Power BI totalmente finalizado, com design intuitivo, responsivo e de fácil navegação, garantindo uma experiência completa de análise de dados;
-- [ ] Entregar um relatório final com as principais descobertas e recomendações, oferecendo suporte à tomada de decisão e à formulação de políticas públicas;
+- [x] Disponibilizar a visualização da distribuição geográfica das movimentações de cargas por estado e região, destacando as áreas com maior volume de atividade;
+- [x] Identificar o número total de acidentes envolvendo caminhões no estado de São Paulo, fornecendo uma visão consolidada do cenário rodoviário;
+- [x] Levantar e analisar as principais causas de acidentes, contribuindo para estratégias de mitigação e prevenção;
+- [x] Mapear as rodovias federais (BRs) com maior número de acidentes envolvendo caminhões, permitindo a priorização de ações de segurança;
+- [x] Desenvolver um dashboard em Power BI totalmente finalizado, com design intuitivo, responsivo e de fácil navegação, garantindo uma experiência completa de análise de dados;
+- [x] Entregar um relatório final com as principais descobertas e recomendações, oferecendo suporte à tomada de decisão e à formulação de políticas públicas;
 
 # Registro das Sprints
 
@@ -63,5 +63,4 @@ Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 |01 | 02/10/2025 | Concluído | [MVP](MVP/sp1.md) | 
 |02|  23/10/2025| Concluído | [MVP](MVP/sp2.md) | 
-|03| 13/11/2025 | A fazer | [MVP]() | 
-|Feira de Soluções|04/12/2025 | A fazer | [MVP]() | 
+|03| 13/11/2025 | Concluído | [MVP](MVP/sp3.md) | 
